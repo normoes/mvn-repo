@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.aucobo.helpers</groupId>
+  <artifactId>rabbitmq-admin</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170602125047</lastUpdated>
+  </versioning>
+</metadata>
