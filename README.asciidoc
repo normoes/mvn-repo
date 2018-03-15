@@ -1,0 +1,9 @@
+= mvn-repo
+
+.Purpose
+ This is the repository for remote aucobo jars.
+
+To add/change functionality, work within the **aucobohelpers** repository and install into the local **mvn-repo** repository.
+
+.existing remote jars
+* rabbitmq
